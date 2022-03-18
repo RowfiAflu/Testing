@@ -4,7 +4,7 @@ import org.english.English;
 
 public class Tamil extends English {
 	public void tamilLanguage() {
-		System.out.println("Tamil");
+		System.out.println("english");
 	}
 
 }
